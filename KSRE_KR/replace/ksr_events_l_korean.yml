@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_korean:
 # REPLACEMENTS AND SUPPLEMENTS FOR VANILLA
  germany.55.e:0 "Establish Protektorat Böhmen-Mähren and satellite Slovakia"
  germany.1002.LIT.desc:0 "We have received a diplomatic message from Berlin concerning our current territorial occupation of lands in Eastern Poland. It appears that [GER.GetNameDef] and [SOV.GetNameDef] have signed a so-called secret Molotov-Ribbentrop Pact which divides Poland into two spheres of influence, and our occupation interferes with their plans.\n\nThe [GER.GetAdjective] and [SOV.GetAdjective] governments have decided to acknowledge our historical claims on the Vilnius Region, promising to allow us to continue occupying any territories within the bounds of our constitutional borders which we have claimed since 1920, but we are to give up any Polish land beyond these borders.\n\nShould we reject this, we may find ourselves at war with [GER.GetNameDef] and [SOV.GetNameDef] in the immediate future."
