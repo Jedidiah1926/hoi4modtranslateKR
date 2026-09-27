@@ -1,0 +1,37 @@
+﻿l_korean:
+############################################################################
+###### Use Visual Studio Code With Paradox CWTools Language Extension ######
+############################################################################
+
+#### All Mods Will Use "nkmp" As A Prefix ####
+#### Hey you reading this. I love you ♡. Please enjoy and have a wonderful life. ####
+
+#### I tried to organize this best not only for myself but for anyone else who is using the examples of my mod to help make their own and for those who are doing translations. I will always try to convert everything to this format over time. ####
+
+# ==========================================================================
+# About & Contributors
+# ==========================================================================
+  nkmp_about_mod_cat:0 "About Nikos's Modpack"
+  nkmp_about_mod_cat_desc:0 "[nkmp_mod_about_loc]\n [nkmp_modpack_mode]\n\n [nkmp_mod_version_loc] - [nkmp_mod_last_update_loc]"
+  nkmp_close_about:0 "Close"
+  nkmp_close_about_desc:0 "[nkmp_close_loc]"
+  nkmp_contribute_cat:0 "Contributors"
+  nkmp_contribute_cat_desc:0 "\nI wish to say a special thanks to all of those who have supported this project over the years.\n\nCoders- §ONiko, Lord of Cloud Burning§!\n\nTranslators- §OPosion, Lord of Cloud Burning, Baka, and many others§!\n\nTesters- §ONiko, Lord of Cloud Burning, Vekstovios§!\n\nKo-Fi- §ORobm95_§!\n\nAnd Lastly, §OYou§!. Because without you, this mod wouldn't exist. §R<3§!"
+  nkmp_close_contribute:0 "Close"
+  nkmp_close_contribute_desc:0 "[nkmp_close_loc]"
+
+# ==========================================================================
+# General Information
+# ==========================================================================
+  nkmp_about_loc_key:0 "\nNikos's Modpack (Formely Ultimate Cheat Mod) has been around since February 2018. The mod dates back to before update 1.5.0 (Waking the Tiger). In this new Improved Version, which was introduced in 2019, the mod continues to grow every day.\n\nI wish to say thank you to all of those who have been around since the beginning and those who are just joining. Much §t~love~§! to all of you.\n\n§2Some FAQ§! - §RPlease Read All of them§!\n\n - If you see text that is in red §R(This color)§! then you must read the description when hovering over it to be warned of potential issues.\n\n- You should always hover over the mod and read the description before using it.\n\n- Reloading your game or your save may turn things off. You might have to enable them again. Be sure to check everything on a reload.\n\n- The Mod will say which overhaul mode it is in. If it detects one of my sub-mods, it will switch to it. Otherwise, it will say Default.\n\n- If you have any other issues, please report them on the Steam Workshop page.\n"
+  nkmp_mod_version_loc_key:0 "Modpack Version - §C5.3.0§!"
+  nkmp_last_update_loc_key:0 "Last Update - §G9/13/2026§!"
+  nkmp_warning_loc_key:0 "§R- Read Description§!"
+  nkmp_state_warn_loc_key:0 "§RUsing any of the state editor mods may cause lag due to the amount of states it may show. Be cautious with it.§!\n\n§RBe sure to read the descriptions to know how to use the mods.§!"
+  nkmp_close_loc_key:0 "Click to hide this menu."
+
+############################
+###### End of the Mod ######
+############################
+
+### Thank you for checking out the mod. ###
