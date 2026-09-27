@@ -11,24 +11,24 @@
 # ==========================================================================
 # About & Contributors
 # ==========================================================================
-  nkmp_about_mod_cat:0 "About Nikos's Modpack"
+  nkmp_about_mod_cat:0 "니코의 모드팩 정보"
   nkmp_about_mod_cat_desc:0 "[nkmp_mod_about_loc]\n [nkmp_modpack_mode]\n\n [nkmp_mod_version_loc] - [nkmp_mod_last_update_loc]"
-  nkmp_close_about:0 "Close"
+  nkmp_close_about:0 "닫기"
   nkmp_close_about_desc:0 "[nkmp_close_loc]"
-  nkmp_contribute_cat:0 "Contributors"
-  nkmp_contribute_cat_desc:0 "\nI wish to say a special thanks to all of those who have supported this project over the years.\n\nCoders- §ONiko, Lord of Cloud Burning§!\n\nTranslators- §OPosion, Lord of Cloud Burning, Baka, and many others§!\n\nTesters- §ONiko, Lord of Cloud Burning, Vekstovios§!\n\nKo-Fi- §ORobm95_§!\n\nAnd Lastly, §OYou§!. Because without you, this mod wouldn't exist. §R<3§!"
-  nkmp_close_contribute:0 "Close"
+  nkmp_contribute_cat:0 "기여자"
+  nkmp_contribute_cat_desc:0 "\n수년간 이 프로젝트를 응원해 주신 모든 분께 특별한 감사를 전합니다.\n\n코더 - §ONiko, Lord of Cloud Burning§!\n\n번역가 - §OPosion, Lord of Cloud Burning, Baka 외 여러분§!\n\n테스터 - §ONiko, Lord of Cloud Burning, Vekstovios§!\n\nKo-Fi - §ORobm95_§!\n\n그리고 마지막으로, §O당신§!. 당신이 없었다면 이 모드도 존재하지 않았을 겁니다. §R<3§!"
+  nkmp_close_contribute:0 "닫기"
   nkmp_close_contribute_desc:0 "[nkmp_close_loc]"
 
 # ==========================================================================
 # General Information
 # ==========================================================================
-  nkmp_about_loc_key:0 "\nNikos's Modpack (Formely Ultimate Cheat Mod) has been around since February 2018. The mod dates back to before update 1.5.0 (Waking the Tiger). In this new Improved Version, which was introduced in 2019, the mod continues to grow every day.\n\nI wish to say thank you to all of those who have been around since the beginning and those who are just joining. Much §t~love~§! to all of you.\n\n§2Some FAQ§! - §RPlease Read All of them§!\n\n - If you see text that is in red §R(This color)§! then you must read the description when hovering over it to be warned of potential issues.\n\n- You should always hover over the mod and read the description before using it.\n\n- Reloading your game or your save may turn things off. You might have to enable them again. Be sure to check everything on a reload.\n\n- The Mod will say which overhaul mode it is in. If it detects one of my sub-mods, it will switch to it. Otherwise, it will say Default.\n\n- If you have any other issues, please report them on the Steam Workshop page.\n"
-  nkmp_mod_version_loc_key:0 "Modpack Version - §C5.3.0§!"
-  nkmp_last_update_loc_key:0 "Last Update - §G9/13/2026§!"
-  nkmp_warning_loc_key:0 "§R- Read Description§!"
-  nkmp_state_warn_loc_key:0 "§RUsing any of the state editor mods may cause lag due to the amount of states it may show. Be cautious with it.§!\n\n§RBe sure to read the descriptions to know how to use the mods.§!"
-  nkmp_close_loc_key:0 "Click to hide this menu."
+  nkmp_about_loc_key:0 "\n니코의 모드팩(구 Ultimate Cheat Mod)은 2018년 2월부터 이어져 왔습니다. 이 모드의 역사는 1.5.0 업데이트(Waking the Tiger) 이전으로 거슬러 올라갑니다. 2019년에 도입된 새로운 개선판에서도 모드는 매일 성장하고 있습니다.\n\n처음부터 함께해 주신 분들과 이제 막 합류하신 분들 모두에게 감사드립니다. 모두에게 §t~사랑~§!을 담아.\n\n§2자주 묻는 질문§! - §R반드시 전부 읽어 주세요§!\n\n - 빨간색 §R(이 색상)§! 글자가 보이면, 마우스를 올려 설명을 꼭 읽고 발생할 수 있는 문제를 확인하세요.\n\n- 모드를 사용하기 전에는 항상 마우스를 올려 설명을 읽어 주세요.\n\n- 게임이나 세이브를 다시 불러오면 일부 기능이 꺼질 수 있습니다. 다시 활성화해야 할 수도 있으니, 다시 불러온 뒤에는 모든 설정을 확인하세요.\n\n- 모드는 현재 어떤 오버홀 모드인지 표시합니다. 제 서브 모드 중 하나가 감지되면 해당 모드로 전환되며, 그렇지 않으면 기본으로 표시됩니다.\n\n- 그 밖의 문제가 있다면 스팀 창작마당 페이지에 제보해 주세요.\n"
+  nkmp_mod_version_loc_key:0 "모드팩 버전 - §C5.3.0§!"
+  nkmp_last_update_loc_key:0 "최종 업데이트 - §G9/13/2026§!"
+  nkmp_warning_loc_key:0 "§R- 설명을 읽으세요§!"
+  nkmp_state_warn_loc_key:0 "§R주 편집기 모드를 사용하면 표시되는 주의 수가 많아 렉이 발생할 수 있습니다. 주의해서 사용하세요.§!\n\n§R사용법을 알려면 반드시 설명을 읽어 주세요.§!"
+  nkmp_close_loc_key:0 "클릭하여 이 메뉴를 숨깁니다."
 
 ############################
 ###### End of the Mod ######
